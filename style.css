@@ -237,13 +237,13 @@ a{
 }
 .overlay.ativar{
     right: 0;
-
+    
 }
 .menu-lateral-container-info {
     margin: 20px;
     padding: 20px;
     border-radius: 5px;
-    height: calc(100% - 40px);
+    height: calc(100dvh - 40px);
     display: none;
     flex-direction: column;
 }
